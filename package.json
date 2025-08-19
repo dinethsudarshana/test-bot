@@ -1,0 +1,20 @@
+{
+  "name": "queen-hasuki-mvp",
+  "version": "1.0.0",
+  "description": "Queen Hasuki - WhatsApp Bot MVP (Baileys)",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^6.7.9",
+    "axios": "^1.6.8",
+    "pino": "^8.17.0",
+    "node-cache": "^5.1.2",
+    "awesome-phonenumber": "^3.4.0",
+    "libphonenumber-js": "^1.10.33",
+    "dotenv": "^16.3.1"
+  }
+}
